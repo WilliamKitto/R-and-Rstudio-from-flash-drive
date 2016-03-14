@@ -8,9 +8,4 @@ https://www.keytoschool.com/plans/
 I started with the micro plan ($9 a year)
 Now we moved up the the $50 plan ... serves the whole department.
 
-<<<<<<< HEAD
 We bought one of the micro ($9/year) plans in order to make the following youtube video.  This video https://youtu.be/6YaQ4eVLADw ) shows downloading the XML file and then installing it as a course in our moodle site. This should get most people who want to give this path a go, to the point of ready-to-add students. 
-=======
-We bought one of the micro ($9/year) plans in order to make the following youtube video.  This video shows downloading the XML file and then installing it as a course in our moodle site. This should get most people who want to give this path a go, to the point of ready-to-add students. 
->>>>>>> origin/master
-
